@@ -1,6 +1,6 @@
 # Heimildir
 
-**Vatnsheidarhraun_Reykjanesskaga_Picrite.csv**
+**Vatnsheidarhraun_Reykjanesskaga_Picrite-MAJOR.csv**
 
 Pikrít frá Vatnsheiði á Reykjanesskaga
 
