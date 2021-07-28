@@ -1,0 +1,38 @@
+== EÐLI2HA05 (Aflfræði og ljós) - Skýringar
+:stem: latexmath
+
+= Hreyfilýsing í einni vídd vídd
+
+Hreyfingu er lýst með hugtökunum færsla (x), tími (t), stefnuhraði (v) og hröðun (a). Stefnuhraði lýsir því hversu ört færsla hlutar breytist og hröðun lýsir því hversu ört stefnuhraðinn breytist. Athugið að með stefnuhraða er átt við hraða í ákveðna stefnu (hraðinn er þá vigurstærð).
+
+Meðalhraði og meðalhröðun eru skilgreind með eftirfarandi samböndum:
+
+stem:[ v = \dfrac{\Delta x}{\Delta t} ] (meðalhraði)
+
+stem:[ a = \dfrac{\Delta v}{\Delta t} ] (meðalhröðun)
+
+Þar sem gríski bókstafurinn stem:[ \Delta ] gefur til kynna breytingu á þeirri stærð sem fylgir honum.
+
+Hreyfijöfnur sem gilda þegar hröðun er jöfn eru eftirfarandi:
+
+stem:[x = \bar{v} \cdot t]
+
+stem:[v = v_0 + at]
+
+stem:[x = v_0 \cdot t + \frac{1}{2} \cdot a \cdot t^2]
+
+stem:[v^2 = {v_0}^2 + 2 \cdot a \cdot x]
+
+Strik sem sett er yfir tákn gefur meðalgildi stærðarinnar til kynna. Ef hröðun er jöfn (hraði breytist þá alltaf um sömu tölustærð) þá má lýsa hreyfingu með jöfnum 1,2 og 3.
+
+= Lögmálið um varðveislu skriðþungans
+
+Skriðþungi í einangruðu kerfi er föst stærð. Víxlverkanir hluta sem tilheyra kerfinu og eru innan þess munu ekki breyta vigursummu kerfisins (allir skriðþungar, mv, í kerfinu samanlagðir).
+
+Þetta setur fastar skorður á þá gerð af hreyfingu sem getur átt sér stað í einangruðu kerfi. Ef einn hluti kerfisins fær skriðþunga í ákveðna átt, þá þurfa sumir aðrir hlutar kerfisins 
+samtímis að fá skriðþunga í gagnstæða stefnu. Ekki fæst betur séð en að varðveisla skriðþungans sé algjörlega fast náttúrulegt lögmál, það er að segja við vitum ekki um neitt í náttúrunni sem ekki hlýtir skriðþungavarðveislulögmálinu.
+
+= Lögmálið um varðveislu orkunnar
+
+Orku má skilgreina sem hæfileikann til að framkvæma vinnu. Til eru mörg form af orku og hægt er að umbreyta orku úr einu formi yfir í annað. Þessar breytingar eru þó háðar grundvallarlögmáli náttúrunnar sem er lögmálið um varðveislu orkunnar. Ein leið til að lýsa þessu lögmáli er sú að "orku sé hvorki hægt að skapa né eyða". Önnur leið er að segja að heildarorka í einangruðu kerfi sé föst stærð.
+ 
